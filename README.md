@@ -1,11 +1,13 @@
 <div align="center">
 
-![OffLoader Logo](assets/Logo/offloader-icon.png#gh-light-mode-only)
-![OffLoader Logo](assets/Logo/offloader-icon-dark.png#gh-dark-mode-only)
+<div align="center">
+    <img src="assets/Logo/offloader-icon.png#gh-light-mode-only" alt="OffLoader Logo" width="130">
+    <img src="assets/Logo/offloader-icon-dark.png#gh-dark-mode-only" alt="OffLoader Logo" width="130">
+</div>
 
 <br/>
 
-# OffLoader 📝
+# OffLoader
 
 [![Status: In Development](https://img.shields.io/badge/Status-In%20Development-FFB300?style=for-the-badge&logo=git&logoColor=white)](#-core-features-in-development)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
